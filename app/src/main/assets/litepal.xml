@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<litepal>
+    <dbname value="couple-timetable" />
+    <version value="1" />
+    <list>
+        <mapping class="cn.bavelee.coupletimetable.bean.ServerData"/>
+        <mapping class="cn.bavelee.coupletimetable.bean.Course"/>
+    </list>
+</litepal>

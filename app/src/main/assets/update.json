@@ -1,0 +1,312 @@
+{
+    "updateCode": 20220603,
+    "semesterStartTime": "2021-03-01",
+    "semesterEndTime": "2021-07-18",
+    "boyCourses": {
+        "name": "Timetable of boy",
+        "courses": [
+            {
+                "name": "Java企业级框架技术应用",
+                "location": "主教北楼5机房",
+                "teacher": "谢青念",
+                "dayOfWeek": 0,
+                "indexOfDay": 1,
+                "weekStart": 1,
+                "weekEnd": 16,
+                "isDoubleWeek": false,
+                "isSingleWeek": false
+            },
+            {
+                "name": "操作系统",
+                "location": "主教S517",
+                "teacher": "李静",
+                "dayOfWeek": 0,
+                "indexOfDay": 2,
+                "weekStart": 1,
+                "weekEnd": 16,
+                "isDoubleWeek": false,
+                "isSingleWeek": false
+            },
+            {
+                "name": "RFID原理与开发技术",
+                "location": "主教S803",
+                "teacher": "魏保龙",
+                "dayOfWeek": 0,
+                "indexOfDay": 4,
+                "weekStart": 2,
+                "weekEnd": 16,
+                "isDoubleWeek": true,
+                "isSingleWeek": false
+            },
+            {
+                "name": "计算机网络",
+                "location": "主教S515",
+                "teacher": "胡红武",
+                "dayOfWeek": 1,
+                "indexOfDay": 0,
+                "weekStart": 1,
+                "weekEnd": 16,
+                "isDoubleWeek": false,
+                "isSingleWeek": false
+            },
+            {
+                "name": "计算机组成原理",
+                "location": "主教S515",
+                "teacher": "王前莉",
+                "dayOfWeek": 1,
+                "indexOfDay": 1,
+                "weekStart": 1,
+                "weekEnd": 16,
+                "isDoubleWeek": false,
+                "isSingleWeek": false
+            },
+            {
+                "name": "Linux环境编程",
+                "location": "主教S517",
+                "teacher": "陈军",
+                "dayOfWeek": 1,
+                "indexOfDay": 2,
+                "weekStart": 1,
+                "weekEnd": 16,
+                "isDoubleWeek": false,
+                "isSingleWeek": false
+            },
+            {
+                "name": "物联网导论",
+                "location": "主教S517",
+                "teacher": "陈明",
+                "dayOfWeek": 1,
+                "indexOfDay": 3,
+                "weekStart": 1,
+                "weekEnd": 16,
+                "isDoubleWeek": false,
+                "isSingleWeek": false
+            },
+            {
+                "name": "Java企业级框架技术实验",
+                "location": "主教北楼5机房",
+                "teacher": "谢青念",
+                "dayOfWeek": 2,
+                "indexOfDay": 0,
+                "weekStart": 1,
+                "weekEnd": 16,
+                "isDoubleWeek": false,
+                "isSingleWeek": false
+            },
+            {
+                "name": "RFID原理与开发技术",
+                "location": "主教S517",
+                "teacher": "魏保龙",
+                "dayOfWeek": 2,
+                "indexOfDay": 1,
+                "weekStart": 1,
+                "weekEnd": 16,
+                "isDoubleWeek": false,
+                "isSingleWeek": false
+            },
+            {
+                "name": "汇编语言与接口技术",
+                "location": "主教S518",
+                "teacher": "张国林",
+                "dayOfWeek": 3,
+                "indexOfDay": 0,
+                "weekStart": 1,
+                "weekEnd": 16,
+                "isDoubleWeek": false,
+                "isSingleWeek": false
+            },
+            {
+                "name": "计算机组成原理",
+                "location": "主教S517",
+                "teacher": "王前莉",
+                "dayOfWeek": 3,
+                "indexOfDay": 1,
+                "weekStart": 1,
+                "weekEnd": 15,
+                "isDoubleWeek": false,
+                "isSingleWeek": true
+            },
+            {
+                "name": "web编程技术",
+                "location": "实训楼405406",
+                "teacher": "张连福",
+                "dayOfWeek": 3,
+                "indexOfDay": 2,
+                "weekStart": 4,
+                "weekEnd": 16,
+                "isDoubleWeek": false,
+                "isSingleWeek": false
+            },
+            {
+                "name": "web编程技术实验",
+                "location": "实训楼405406",
+                "teacher": "张连福",
+                "dayOfWeek": 3,
+                "indexOfDay": 3,
+                "weekStart": 4,
+                "weekEnd": 16,
+                "isDoubleWeek": false,
+                "isSingleWeek": false
+            },
+            {
+                "name": "Linux环境编程",
+                "location": "实训楼S301S302",
+                "teacher": "陈军",
+                "dayOfWeek": 5,
+                "indexOfDay": 4,
+                "weekStart": 1,
+                "weekEnd": 16,
+                "isDoubleWeek": false,
+                "isSingleWeek": false
+            },
+            {
+                "name": "计算机组成原理",
+                "location": "主教S702",
+                "teacher": "王前莉",
+                "dayOfWeek": 4,
+                "indexOfDay": 2,
+                "weekStart": 9,
+                "weekEnd": 16,
+                "isDoubleWeek": false,
+                "isSingleWeek": false
+            },
+            {
+                "name": "web编程技术实验",
+                "location": "实训楼405406",
+                "teacher": "张连福",
+                "dayOfWeek": 6,
+                "indexOfDay": 0,
+                "weekStart": 14,
+                "weekEnd": 16,
+                "isDoubleWeek": false,
+                "isSingleWeek": false
+            },
+            {
+                "name": "web编程技术实验",
+                "location": "实训楼405406",
+                "teacher": "张连福",
+                "dayOfWeek": 6,
+                "indexOfDay": 1,
+                "weekStart": 14,
+                "weekEnd": 16,
+                "isDoubleWeek": false,
+                "isSingleWeek": false
+            },
+            {
+                "name": "汇编语言与接口技术实验",
+                "location": "主教S803",
+                "teacher": "张国林",
+                "dayOfWeek": 6,
+                "indexOfDay": 2,
+                "weekStart": 1,
+                "weekEnd": 16,
+                "isDoubleWeek": false,
+                "isSingleWeek": false
+            }
+        ]
+    },
+    "girlCourses": {
+        "name": "GTimetable of girl",
+        "courses": [
+            {
+                "name": "高级英语2",
+                "location": "主教S105",
+                "teacher": "施艳群",
+                "dayOfWeek": 0,
+                "indexOfDay": 0,
+                "weekStart": 1,
+                "weekEnd": 16,
+                "isDoubleWeek": false,
+                "isSingleWeek": false
+            },
+            {
+                "name": "翻译理论与实践2",
+                "location": "人文大201",
+                "teacher": "徐美娥",
+                "dayOfWeek": 0,
+                "indexOfDay": 1,
+                "weekStart": 1,
+                "weekEnd": 16,
+                "isDoubleWeek": false,
+                "isSingleWeek": false
+            },
+            {
+                "name": "第二外语2",
+                "location": "二教东一304",
+                "teacher": "张浩",
+                "dayOfWeek": 0,
+                "indexOfDay": 2,
+                "weekStart": 1,
+                "weekEnd": 16,
+                "isDoubleWeek": false,
+                "isSingleWeek": false
+            },
+            {
+                "name": "第二外语2",
+                "location": "主教S205",
+                "teacher": "张浩",
+                "dayOfWeek": 1,
+                "indexOfDay": 0,
+                "weekStart": 1,
+                "weekEnd": 16,
+                "isDoubleWeek": false,
+                "isSingleWeek": false
+            },
+            {
+                "name": "高级英语2",
+                "location": "主教S104",
+                "teacher": "施艳群",
+                "dayOfWeek": 2,
+                "indexOfDay": 1,
+                "weekStart": 1,
+                "weekEnd": 16,
+                "isDoubleWeek": false,
+                "isSingleWeek": false
+            },
+            {
+                "name": "中国文化英语入门",
+                "location": "二教东一404",
+                "teacher": "刘弘伟13766417068",
+                "dayOfWeek": 2,
+                "indexOfDay": 4,
+                "weekStart": 1,
+                "weekEnd": 16,
+                "isDoubleWeek": false,
+                "isSingleWeek": false
+            },
+            {
+                "name": "英语教学测量统计",
+                "location": "人文大202",
+                "teacher": "曹幼南",
+                "dayOfWeek": 3,
+                "indexOfDay": 2,
+                "weekStart": 1,
+                "weekEnd": 8,
+                "isDoubleWeek": false,
+                "isSingleWeek": false
+            },
+            {
+                "name": "英语语言学概论2",
+                "location": "主教S314",
+                "teacher": "李翔一",
+                "dayOfWeek": 4,
+                "indexOfDay": 0,
+                "weekStart": 1,
+                "weekEnd": 16,
+                "isDoubleWeek": false,
+                "isSingleWeek": false
+            },
+            {
+                "name": "英美文学基础2",
+                "location": "二教东一310",
+                "teacher": "胡丹颖",
+                "dayOfWeek": 4,
+                "indexOfDay": 1,
+                "weekStart": 1,
+                "weekEnd": 16,
+                "isDoubleWeek": false,
+                "isSingleWeek": false
+            }
+        ]
+    }
+}

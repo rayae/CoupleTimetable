@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Couple Timetable</string>
+    <string name="id_card">校园卡</string>
+    <string name="boy">男孩子</string>
+    <string name="gril">女孩子</string>
+    <string name="course_name">课程名</string>
+    <string name="location">上课地点</string>
+    <string name="teacher">教师</string>
+</resources>

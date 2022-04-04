@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">@color/colorBoy</color>
+    <color name="colorPrimaryDark">@color/colorPrimary</color>
+    <color name="colorAccent">#03DAC5</color>
+    <color name="colorBoy">#3a9ad9</color>
+    <color name="colorBoyDisabled">#A1A1A1</color>
+    <color name="colorGirl">#FF82A9</color>
+    <color name="colorGirlDisabled">#B5B5B5</color>
+</resources>
